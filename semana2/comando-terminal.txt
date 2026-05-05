@@ -1,0 +1,12 @@
+ls
+cd
+touch
+mkdir semana2
+nano 
+cat
+git add
+git push
+git status
+git commic
+
+
