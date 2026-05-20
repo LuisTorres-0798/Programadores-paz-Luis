@@ -1,0 +1,9 @@
+Repositorio:
+Es el lugar donde se guarda todo el proyecto de programación, como una carpeta inteligente donde están los archivos y los cambios que se hacen. Ayuda a mantener el trabajo organizado.
+
+Commit:
+Es como guardar un avance del proyecto. Sirve para registrar los cambios realizados y dejar una especie de “punto de guardado” por si luego se necesita revisar o volver atrás.
+
+Push:
+Es enviar los cambios del proyecto al repositorio en internet. Así otras personas del equipo pueden ver el trabajo actualizado y seguir trabajando.
+
